@@ -10,11 +10,8 @@
 <p align="center"> 
   <samp>
   With a deep passion for problem-solving, I thrive on tackling complex challenges through logical thinking and efficient code. I’m a keen learner of **Data Structures and Algorithms**, always striving to improve my problem-solving skills using leetcode.
-
-As a **Full-Stack Web Developer**, I enjoy crafting elegant front-end interfaces and building powerful, scalable back-end systems. I specialize in building modern web applications using the **MERN stack** and love translating ideas into real-world digital experiences.
-
-
-    <br>
+          
+As a Full-Stack Web Developer, I enjoy crafting elegant front-end interfaces and building powerful, scalable back-end systems. I specialize in building modern web applications using the **MERN stack** and love translating ideas into real-world digital experiences.
   </samp>
 </p>
 
