@@ -1,5 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=dharmendra9503&icon=0&color=1)](https://visitcount.itsvg.in)
 
+
 <h1 align="center">
         <samp>Hi, 
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,14 +8,14 @@
         </samp>
 </h1>
 
+
 <p align="center"> 
   <samp>
-  With a deep passion for problem-solving, I thrive on tackling complex challenges through logical thinking and efficient code. I’m a keen learner of **Data Structures and Algorithms**, always striving to improve my problem-solving skills using leetcode.
-          
-As a Full-Stack Web Developer, I enjoy crafting elegant front-end interfaces and building powerful, scalable back-end systems. I specialize in building modern web applications using the **MERN stack** and love translating ideas into real-world digital experiences.
+  With a deep passion for problem-solving, I thrive on tackling complex challenges through logical thinking and efficient code. I’m a keen learner of Data Structures and Algorithms, always striving to improve my problem-solving skills using leetcode.  
+ As a Full-Stack Web Developer, I enjoy crafting elegant front-end interfaces and building powerful, scalable back-end systems. I specialize in building modern web applications using the MERN stack.
   </samp>
 </p>
-
+<br>
 <p align="center">
 <a href="https://leetcode.com/u/SaniyaSayyad008/" target="_blank">
    <img src="https://img.shields.io/badge/Leetcode-21120c?style=for-the-badge&logo=leetcode&logoColor=white" alt="Saniya" />
@@ -43,11 +44,10 @@ As a Full-Stack Web Developer, I enjoy crafting elegant front-end interfaces and
 <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
  
 # 💫 About Me 💫
-✌ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-❤ &emsp; Love to solving problems and learning new technology <br/><br/>
-🌱 &emsp; I’m currently learning PHP, Laravel <br/><br/>
-📧 &emsp; Reach me anytime: dharmendraprajapati9503@gmail.com<br/><br/>
-
+❤ &emsp; A passionate Web Developer,Always learning, building. <br/><br/>
+💻 &emsp;I love solving real-world problems using clean and scalable code <br/><br/>
+🧠 Strong foundation in Data Structures and Algorithms (DSA). 
+📧 &emsp; Reach me anytime: saniyasayyad8009@gmail.com<br/><br/>
 <br>
 <br>
 
@@ -76,40 +76,6 @@ As a Full-Stack Web Developer, I enjoy crafting elegant front-end interfaces and
 </div>
 
 <br/>
-
-<div align="center">
-  <h2>🏆 Github Profile Trophy 🏆</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dharmendra9503&column=7"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>📊 GitHub Stats 📊</h2>
-  <a href="https://github.com/dharmendra9503"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=dharmendra9503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="34%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra9503&theme=tokyonight" alt="GitHub Streak Stats" width="36%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra9503&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="26%" >
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <div>
-    <h2>✍ Random Dev Quote ✍</h2>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" width="60%">
-    <br/>
-    <h2>🔝 Top Contributed Repo 🔝</h2>
-    <img src="https://github-contributor-stats.vercel.app/api?username=dharmendra9503&limit=5&theme=buddhism&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="60%">
-  </div>
-  <div>
-    <h2>😂 Random Dev Meme 😂</h2>
-    <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="60%" height="60%">
-  </div>
-</div>
 
 <br/>
 
