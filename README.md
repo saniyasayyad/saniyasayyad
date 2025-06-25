@@ -46,7 +46,7 @@
 # 💫 About Me 💫
 ❤ &emsp; A passionate Web Developer,Always learning, building. <br/><br/>
 💻 &emsp;I love solving real-world problems using clean and scalable code <br/><br/>
-🧠 Strong foundation in Data Structures and Algorithms (DSA). 
+🧠 Strong foundation in Data Structures and Algorithms (DSA). <br/><br/>
 📧 &emsp; Reach me anytime: saniyasayyad8009@gmail.com<br/><br/>
 <br>
 <br>
