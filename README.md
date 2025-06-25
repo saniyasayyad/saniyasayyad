@@ -3,42 +3,41 @@
 <h1 align="center">
         <samp>Hi, 
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-          I am <b><a target="_blank" href="https://dharmendra9503.netlify.app">Dharmendra Prajapati</a></b>
+          I am <b><a target="_blank" href="https://dharmendra9503.netlify.app">Saniya Sayyad</a></b>
         </samp>
 </h1>
 
 <p align="center"> 
   <samp>
-    With a passion for problem-solving, I'm a keen learner of Data Structures and Algorithms, ready to tackle any tech challenge. I am a full stack web developer and also Java enthusiastic
+  With a deep passion for problem-solving, I thrive on tackling complex challenges through logical thinking and efficient code. I’m a keen learner of **Data Structures and Algorithms**, always striving to improve my problem-solving skills using leetcode.
+
+As a **Full-Stack Web Developer**, I enjoy crafting elegant front-end interfaces and building powerful, scalable back-end systems. I specialize in building modern web applications using the **MERN stack** and love translating ideas into real-world digital experiences.
+
+
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://dharmendra9503.netlify.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Dharmendra" />
+<a href="https://leetcode.com/u/SaniyaSayyad008/" target="_blank">
+   <img src="https://img.shields.io/badge/Leetcode-21120c?style=for-the-badge&logo=leetcode&logoColor=white" alt="Saniya" />
+</a>
+ <a href="https://www.linkedin.com/in/saniya-sayyad-8a3841210" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Saniya"/>
  </a>
- <a href="https://linkedin.com/in/dharmendra9503" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dharmendra"/>
- </a>
- <a href="https://instagram.com/ll_dharmendra_lll" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Dharmendra" />
+ <a href="https://www.instagram.com/saniya_sayyad09" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Saniya" />
  </a> 
-<a href="https://medium.com/@dharmendraprajapati9503" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-fe4164?style=for-the-badge&logo=medium&logoColor=white" alt="Dharmendra" />
- </a> 
+
 </p>
 <br />
 
 <p align="center">
- <a href="https://leetcode.com/Dharmendra_9503/" target="blank">
-  <img src="https://img.shields.io/badge/Leetcode-21120c?style=for-the-badge&logo=leetcode&logoColor=white" alt="Dharmendra" />
- </a>
- <a href="https://auth.geeksforgeeks.org/user/dharmendra9503" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Dharmendra"/>
- </a>
- <a href="https://www.codechef.com/users/dharmendra9503" target="_blank">
-  <img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="Dharmendra" />
+<a href="https://www.geeksforgeeks.org/user/saniyasayyk13/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+</a>
+ <a href="https://www.codechef.com/users/alert_medal_37" target="_blank">
+  <img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="Saniya" />
  </a>
 </p>
 
