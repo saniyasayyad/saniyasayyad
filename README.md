@@ -11,8 +11,7 @@
 
 <p align="center"> 
   <samp>
-  With a deep passion for problem-solving, I thrive on tackling complex challenges through logical thinking and efficient code. I’m a keen learner of Data Structures and Algorithms, always striving to improve my problem-solving skills using leetcode.  
- As a Full-Stack Web Developer, I enjoy crafting elegant front-end interfaces and building powerful, scalable back-end systems. I specialize in building modern web applications using the MERN stack.
+  Passionate problem solver with a love for logic and clean code. I sharpen my DSA skills on LeetCode and build sleek, scalable web apps with the MERN stack 
   </samp>
 </p>
 <br>
@@ -46,7 +45,7 @@
 # 💫 About Me 💫
 ❤ &emsp; A passionate Web Developer,Always learning, building. <br/><br/>
 💻 &emsp;I love solving real-world problems using clean and scalable code <br/><br/>
-🧠 Strong foundation in Data Structures and Algorithms (DSA). <br/><br/>
+🧠 &emsp;Strong foundation in Data Structures and Algorithms (DSA). <br/><br/>
 📧 &emsp; Reach me anytime: saniyasayyad8009@gmail.com<br/><br/>
 <br>
 <br>
@@ -74,5 +73,14 @@
 <br/>
 
 <br/>
+
+<h3 align="center">  ✍️ Random Developer Quote📝</h3>
+
+
+<p align="center" style="background-color: grey; padding: 10px; border-radius: 10px;">
+  <em>"Walking on water and developing software from a specification are easy if both are frozen."</em><br />
+  — <strong>Edward V. Berard</strong>
+</p>
+
 
 
