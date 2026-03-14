@@ -4,7 +4,7 @@
 <h1 align="center">
         <samp>Hi, 
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-          I am <b><a target="_blank" href=" https://port-folio-git-master-saniyas-projects-d2a3d4ce.vercel.app/">Saniya Sayyad</a></b>
+          I am <b><a target="_blank" href="https://port-folio-git-master-saniyas-projects-d2a3d4ce.vercel.app/">Saniya Sayyad</a></b>
         </samp>
 </h1>
 
